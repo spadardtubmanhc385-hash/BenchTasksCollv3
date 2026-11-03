@@ -19,6 +19,8 @@ This review checked existence and the explicitly stated configuration rules, not
 
 ## Location and access
 
-Direct ref creation is unavailable for `toolathlon/BenchTasksCollv3` with the current account. The branch is published here in `spadardtubmanhc385-hash/BenchTasksCollv3`, with a pull request to the original repository.
+The published branch is `spadardtubmanhc385-hash/BenchTasksCollv3` at `finalpool`. PR #1 is an **in-fork review reference**, not an upstream pull request. Direct branch creation in `toolathlon/BenchTasksCollv3` returned 404 and the account has only read access there; a separately attempted upstream PR was rejected as an invalid head. Publishing to the original repository requires additional access.
 
-Tracker: https://app.notion.com/p/Task-Tracker-40d15df04e388164a78bc2a11acc5e0c
+- Branch: https://github.com/spadardtubmanhc385-hash/BenchTasksCollv3/tree/finalpool
+- Verification PR: https://github.com/spadardtubmanhc385-hash/BenchTasksCollv3/pull/1
+- Tracker: https://app.notion.com/p/Task-Tracker-40d15df04e388164a78bc2a11acc5e0c
